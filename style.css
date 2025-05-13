@@ -1,0 +1,38 @@
+/* CSS mẫu, dán đầy đủ từ phần người dùng đã gửi */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+}
+.container {
+    max-width: 768px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    font-weight: 600;
+}
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007aff;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.try-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #34c759;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+... (dán toàn bộ phần style của bạn tại đây nếu cần đầy đủ) ...
